@@ -1,0 +1,4 @@
+openai_key: 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
+traceback_length: 5
+vector_space_model: sadakmed/distiluse-base-multilingual-cased-v2
+init_msg: Hey! Its Mike You recently filled out the form in my link in bio. You are interested in business and social media growth. Is it true?
